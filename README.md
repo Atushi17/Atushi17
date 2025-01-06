@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Atushi17
+- 👀 I’m interested in Web Development, Discord Bots, App Development
+- 🌱 I’m currently learning React-Native 
+- 💞️ I’m looking to collaborate on Web Development and App Development
+- 📫 How to reach me: Email- harshps1704@gmail.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I play basketball.
