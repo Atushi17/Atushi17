@@ -1,77 +1,63 @@
 <div align="center">
-<img src="https://placehold.co/800x250/0F172A/E0F2FE?text=Harsh" alt="Header Image"/>
+<img src="https://placehold.co/800x250/0F0F0F/DC2626?text=Harsh+Pratap+Singh" alt="Header Image"/>
 </div>
 
 <h1 align="center">Hi there, I'm Harsh 👋</h1>
 
 <p align="center">
-<em>A passionate Full-Stack Developer from India with a love for building beautiful and functional web applications.</em>
+<em>Software Engineering Student & Security Researcher bridging high-performance full-stack development with proactive network defense.</em>
 </p>
-👨‍💻 About Me
 
-I'm a dedicated and versatile developer with a strong foundation in both front-end and back-end technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I have experience working on various projects, from personal hobby projects to collaborative efforts for college and clients. I'm always eager to learn new technologies and improve my skills.
+### 👨‍💻 About Me
 
-    🔭 I’m currently working on ... A cutting-edge web application using Next.js and Firebase.
+I'm a proactive developer who believes that the best way to build resilient software is to know exactly how to break it. I specialize in engineering scalable full-stack applications [cite: 5] and standalone WebAssembly runtime hosts[cite: 38]. I combine my passion for memory-safe languages with a strict "Security-First" mindset, frequently working within Linux environments to conduct vulnerability assessments and penetration testing[cite: 4, 19, 20].
 
-    🌱 I’m currently learning ... FLutter and LLM intigration for my future projects ;).
+* 🔭 **I’m currently working on:** Engineering a UI dashboard builder and runtime engine as a Full Stack Web Developer at Assisto AI [cite: 13, 15] and performing network monitoring as a CyberSecurity Intern at VRIF[cite: 18, 20].
+* 🌱 **I’m currently exploring:** Advanced local AI/LLM inferences, Natural Language Processing, and optimizing my custom Linux setups.
+* 👯 **I’m looking to collaborate on:** Open-source WebAssembly tools, secure-by-design architectures, and Rust-based backend compilers[cite: 34].
+* 💬 **Ask me about:** Rust [cite: 10], React [cite: 10], managing packages across Arch/Fedora/Kali[cite: 10, 20], or keeping game FPS high while running heavy backgrounds tasks.
+* 📫 **How to reach me:** harshps1704@gmail.com [cite: 2]
+* ⚡ **Fun fact:** I can solve a Rubik's cube in under a minute, and I daily-drive heavily customized Linux distributions for my coding environments.
 
-    👯 I’m looking to collaborate on ... Open-source projects related to web development and design.
+### 🛠️ My Tech Stack
 
-    💬 Ask me about ... Anything related to my tech stack!
-
-    📫 How to reach me: harshps1704@gmail.com
-
-    ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
-
-🛠️ My Tech Stack
-
-Here are some of the technologies I'm proficient in:
-
-Languages:
-
+**Languages:**
 <p>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
 </p>
 
-Frameworks & Libraries:
-
+**Frameworks & WebAssembly:**
 <p>
+<a href="#"><img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"></a>
-<a href="#"><img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-Databases & Backend:
-
+**Security, OS & Backend:**
 <p>
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+<a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+<a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1660EA?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
-Tools & Other:
+### 🚀 Featured Work
 
-<p>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img alt="API" src="https://img.shields.io/badge/API_Integration-248fb2?style=for-the-badge&logo=api&logoColor=white"></a>
-</p>
-🚀 My Projects
+* **Rustify [cite: 30]:** A dynamic JSON-to-UI engine utilizing React and a high-performance Actix Web backend compiler[cite: 31, 34].
+* **WASM Renderer System [cite: 35]:** A standalone frontend execution engine built with Rust, Yew, and WebAssembly, packaged using Trunk[cite: 36, 39].
+* **AIT Attendance System [cite: 27]:** A modern, role-based QR tracking platform built with Next.js and Firebase that increased institutional efficiency by 50%[cite: 28, 29].
 
-I'm always working on something new! You can check out all of my public projects on my GitHub repositories page.
+### 🤝 Get in Touch
 
-🤝 Get in Touch
+I'm always open to connecting with other developers, discussing new ideas, or talking about cybersecurity and modern web architectures.
 
-I'm always open to connecting with other developers and discussing new ideas.
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/harsh-singh-7b2587276" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
